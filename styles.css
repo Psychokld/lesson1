@@ -1,0 +1,78 @@
+body{
+    margin: 0; padding: 0;
+}
+
+.mainblock{
+    width: 100%;
+    background-color: rgb(42, 42, 204);
+}
+.mainblock{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;    
+}
+
+a {
+    color: white;
+}
+div {
+    color: white;
+}
+h4 {
+    color: white;
+}
+h3 {
+    color: gray;
+}
+input {
+    width: 300px;
+    height: 50px;
+}
+.specialthing{
+    width: 40%;
+    height: 90px;
+}
+button{
+    background-color: rgb(63, 63, 210);
+    width: 200px;
+}
+.img{
+    justify-content: flex-end;
+}
+.secblock{
+    width: 400px;
+    background-color: rgb(20, 20, 105);
+}
+.secblock{
+    width: 100%;
+    height: 100px;
+}
+.blockk{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+label{
+    color: black;
+}
+.footr{
+    display: flex;
+    justify-content: flex-end;  
+    align-items: center;       
+    gap: 30px;                  
+    margin-right: 40px; 
+}
+.headtext {
+    display: flex;
+    justify-content: flex-end;  
+    align-items: center;       
+    gap: 30px;                  
+    margin-right: 40px;         
+}
+.send {
+    margin-top: 30px; 
+    text-align: left;  
+    margin-left: 10px;
+}
+
